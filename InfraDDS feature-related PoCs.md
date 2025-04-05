@@ -1,5 +1,9 @@
 # InfraDDS use cases
 
+- IOWN Global Forum Data Centric Infrastracture as a Service
+-
+- 
+
 # InfraDDS feature-related PoC list
 
 - https://research.ibm.com/blog/composable-systems-openshift
