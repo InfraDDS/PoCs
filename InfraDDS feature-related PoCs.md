@@ -1,7 +1,8 @@
 # InfraDDS use cases
 
+- GPU as a Service
 - IOWN Global Forum Data Centric Infrastracture as a Service
--
+- 
 - 
 
 # InfraDDS feature-related PoC list
